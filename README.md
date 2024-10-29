@@ -1,4 +1,6 @@
 # Hi, I'm Max
+I'm in 8th grade, and love computers :)
+## I code in
 - HTML/JS/CSS
 - Serverside JS(Cloudflare Workers, Nodejs etc)
 - Python(i suck)
